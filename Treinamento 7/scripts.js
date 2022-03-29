@@ -14,3 +14,9 @@ function dividePorDois(valor){
 }
 
 console.log(dividePorDois(100));
+
+console.log('happy days'.includes('day'))
+
+var greating = 'Hello, Grasshopper!';
+greating = greating.replace('hopper', 'jumper');
+console.log(greating);
