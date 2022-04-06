@@ -5,7 +5,6 @@ console.log(true || false); //truthy
 console.log(false || 'rafael'); //turthy
 console.log( null || false);
 console.log(1 || false);//turthy
-console.log(false || 1 || 3)//turthy
 
 let corBlusa = 'roxo';
 let corCalça= '' ;
