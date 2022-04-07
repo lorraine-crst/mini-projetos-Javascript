@@ -4,7 +4,7 @@
 console.log(true || false); //truthy
 console.log(false || 'rafael'); //turthy
 console.log( null || false);
-console.log(1 || false);//turthy
+
 
 let corBlusa = 'roxo';
 let corCalça= '' ;
