@@ -2,7 +2,6 @@
 //Truthy
 
 console.log(true || false); //truthy
-console.log(false || 'rafael'); //turthy
 console.log( null || false);
 
 
