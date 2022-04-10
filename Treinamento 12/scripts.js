@@ -8,10 +8,10 @@ console.log(true && false);
 console.log(1 && 2);
 console.log(1 && 1);
 
-let maiorDeIdade = true;
-let tirarCarteira = true;
+let maiordeIdade = true;
+let tirarcarteira = true;
 let menorDeIdade = false;
-let podeAplicar = maiorDeIdade && tirarCarteira;
+let podeaplicar = maiorDeIdade && tirarCarteira;
 let naoPodeAplicar = menorDeIdade && tirarCarteira;
 console.log(naoPodeAplicar);
 console.log(podeAplicar);
@@ -23,11 +23,11 @@ console.log(false || false);
 console.log(1 || 2);
 console.log(1 || 1);
 
-let maiorDeIdade = true;
-let tirarCarteira = true;
-let menorDeIdade = false;
-let podeAplicar = maiorDeIdade || tirarCarteira;
-let naoPodeAplicar = menorDeIdade || tirarCarteira;
+let MaiorDeIdade = true;
+let TirarCarteira = true;
+let MenorDeIdade = false;
+let PodeAplicar = maiorDeIdade || tirarCarteira;
+let NaoPodeAplicar = menorDeIdade || tirarCarteira;
 console.log(naoPodeAplicar);
 console.log(podeAplicar);
 
